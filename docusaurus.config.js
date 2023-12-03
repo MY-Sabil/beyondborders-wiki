@@ -1,7 +1,3 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
@@ -14,24 +10,13 @@ const config = {
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
-  // Set the /<baseUrl>/ pathname under which your site is served
-  // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
-  // organizationName: 'facebook', // Usually your GitHub org/user name.
-  // projectName: 'docusaurus', // Usually your repo name.
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+  
   i18n: {
     defaultLocale: 'en',
-    locales: ['en', 'bn'],
+    locales: ['en'],
   },
 
   presets: [
@@ -41,14 +26,12 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/MY-Sabil/beyondborders-wiki/edit/main/',
         },
         blog: {
           showReadingTime: true,
-          // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/MY-Sabil/beyondborders-wiki/edit/main/',
@@ -74,13 +57,18 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'mainSidebar',
             position: 'left',
             label: 'Wiki',
           },
           {
             to: '/blog',
             label: 'Blog', 
+            position: 'left',
+          },
+          {
+            to: '/forum',
+            label: 'Forum',
             position: 'left',
           },
           {
@@ -96,7 +84,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Community',
@@ -129,11 +117,11 @@ const config = {
             items: [
               {
                 label: 'Who are we?',
-                to: '#',
+                to: '/about',
               },
               {
                 label: 'Team',
-                href: '#',
+                href: '/team',
               },
             ],
           },
