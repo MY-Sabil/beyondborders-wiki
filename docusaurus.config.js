@@ -78,7 +78,8 @@ const config = {
           },
           {
             href: 'https://github.com/MY-Sabil/beyondborders-wiki',
-            label: 'GitHub',
+            className: 'header-github-link',
+            'aria-label': 'GitHub repository',
             position: 'right',
           },
         ],
@@ -116,7 +117,7 @@ const config = {
             title: 'About',
             items: [
               {
-                label: 'Who are we?',
+                label: 'Our Story',
                 to: '/about',
               },
               {
