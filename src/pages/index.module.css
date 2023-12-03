@@ -4,7 +4,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    color: var(--ifm-color-content);
+    color: #E0EFF0;
     margin: 0;
     padding: 0;
     font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, sans-serif, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
@@ -34,7 +34,7 @@
 }
 
 .tcolor {
-    background: linear-gradient(120deg, var(--ifm-color-primary), var(--ifm-color-primary-dark));
+    background: linear-gradient(120deg, #a9d3d6, #8fc6ca);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -52,12 +52,12 @@
 .mainBtn {
     padding: 20px 40px;
     background: transparent;
-    color: var(--ifm-color-primary);
+    color: #a9d3d6;
     font-size: 2.5vh;
     font-weight: 500;
     margin-top: 3vh;
     border-radius: 50px;
-    border: 1px var(--ifm-color-primary) solid;
+    border: 1px #a9d3d6 solid;
     text-decoration: none !important;
     transition: all 0.3s cubic-bezier(0.23, 1, 0.320, 1);
     overflow: hidden;
@@ -73,7 +73,7 @@
     border-radius: inherit;
     scale: 0;
     z-index: -1;
-    background-color: var(--ifm-color-primary);
+    background-color: #a9d3d6;
     transition: all 0.6s cubic-bezier(0.23, 1, 0.320, 1);
 }
 
@@ -82,7 +82,7 @@
 }
 
 .mainBtn:hover {
-    color: var(--ifm-background-color);
+    color: #0A1414;
     scale: 1.1;
 }
 
