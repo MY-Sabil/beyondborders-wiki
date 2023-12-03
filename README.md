@@ -44,7 +44,7 @@ For more details, please refer to our [Contribution Guidelines](CONTRIBUTING.md)
 
 Connect with the Beyond Borders Wiki community:
 
-- Join the [Bangladeshis Beyond Border Facebook Group](https://www.facebook.com/groups/BdBeyondBorder).
+- Join the Bangladeshis Beyond Border [Facebook Group](https://www.facebook.com/groups/BdBeyondBorder).
 - Follow us on [Facebook](https://facebook.com/beyondborderswiki).
 
 ## License
