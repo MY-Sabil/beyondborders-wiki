@@ -72,9 +72,9 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://github.com/MY-Sabil/beyondborders-wiki/blob/main/CONTRIBUTING.md',
-            label: 'Contribute',
-            position: 'left',
+            to: '/contribute',
+            label: 'Contribute!',
+            position: 'right',
           },
           {
             href: 'https://github.com/MY-Sabil/beyondborders-wiki',
@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'How to contribute?',
-                href: 'https://github.com/MY-Sabil/beyondborders-wiki/blob/main/CONTRIBUTING.md',
+                to: '/contribute',
               },
               {
                 label: 'Github',
