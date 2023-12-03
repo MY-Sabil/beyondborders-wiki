@@ -44,14 +44,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/MY-Sabil/beyondborders-wiki/tree/main/',
+            'https://github.com/MY-Sabil/beyondborders-wiki/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/MY-Sabil/beyondborders-wiki/tree/main/',
+            'https://github.com/MY-Sabil/beyondborders-wiki/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
