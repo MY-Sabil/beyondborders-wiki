@@ -6,7 +6,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Beyond Borders Wiki',
   tagline: 'for Bangladeshi students, by Bangladeshi students',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.ico',
 
   // Set the production url of your site here
   url: 'https://beyondborders.wiki/',
