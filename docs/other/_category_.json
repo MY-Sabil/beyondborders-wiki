@@ -1,0 +1,8 @@
+{
+    "label": "Other Countries",
+    "position": 7,
+    "link": {
+        "type": "generated-index",
+        "description": "All the other countries"
+    }
+}

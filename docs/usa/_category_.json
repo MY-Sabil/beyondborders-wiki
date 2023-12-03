@@ -1,0 +1,8 @@
+{
+    "label": "USA",
+    "position": 2,
+    "link": {
+        "type": "generated-index",
+        "description": "All things US"
+    }
+}
