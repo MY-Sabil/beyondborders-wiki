@@ -1,43 +1,70 @@
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import Heading from '@theme/Heading';
+import React, { useEffect, useState } from 'react';
 import styles from './index.module.css';
+import Layout from '@theme/Layout';
 
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+const HomePage = () => {
+  const [isScriptLoaded, setScriptLoaded] = useState(false);
+
+  useEffect(() => {
+    const loadScripts = async () => {
+      await loadScript('https://cdnjs.cloudflare.com/ajax/libs/three.js/0.158.0/three.min.js');
+      await loadScript('https://cdn.jsdelivr.net/npm/vanta@0.5.24/dist/vanta.dots.min.js');
+      setScriptLoaded(true);
+    };
+
+    loadScripts();
+
+    return () => {
+    };
+  }, []);
+
+  useEffect(() => {
+    if (isScriptLoaded) {
+      VANTA.DOTS({
+        el: "#main",
+        mouseControls: true,
+        touchControls: true,
+        gyroControls: false,
+        minHeight: 200.00,
+        minWidth: 200.00,
+        scale: 1.00,
+        scaleMobile: 1.00,
+        color: 0xa9d3d6,
+        backgroundColor: 0x0A1414,
+        showLines: false
+      });
+    }
+  }, [isScriptLoaded]);
+
+  const loadScript = (src) => {
+    return new Promise((resolve, reject) => {
+      const script = document.createElement('script');
+      script.src = src;
+      script.async = true;
+      script.onload = resolve;
+      script.onerror = reject;
+      document.head.appendChild(script);
+    });
+  };
+
   return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/overview">
-            Get Started
-          </Link>
+    <Layout>
+      <div id="main" className={styles.main}>
+        <div className={styles.wrap}>
+          <div className={styles.title}>
+            <h1>Biggest <span className={styles.tcolor}>Higher Study Abroad</span> Wiki</h1>
+          </div>
+          <div className={styles.tagline}>
+            <p>for Bangladeshi students, by Bangladeshi students</p>
+          </div>
+          <a href="/docs/overview" className={styles.mainBtn}>
+            Delve Into Insanity
+          </a>
         </div>
-      </div>
-    </header>
-  );
-}
-
-export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
+      </div>  
     </Layout>
+    
   );
-}
+};
+
+export default HomePage;
