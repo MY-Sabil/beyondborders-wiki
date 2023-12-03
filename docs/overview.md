@@ -8,4 +8,4 @@ Will update soon! :D
 
 ## What this website is?
 
-this is a website or an archive that hosts information for bangladeshi students pursuing higher education abroad...
+Beyond Borders Wiki is an open and collaborative platform designed to empower Bangladeshi students on their journey to study abroad.
