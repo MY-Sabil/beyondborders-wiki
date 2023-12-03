@@ -88,7 +88,7 @@ const config = {
         style: 'light',
         links: [
           {
-            title: 'Community',
+            title: 'Socials',
             items: [
               {
                 label: 'Facebook',
@@ -114,7 +114,7 @@ const config = {
             ],
           },
           {
-            title: 'About',
+            title: 'More',
             items: [
               {
                 label: 'Our Story',
@@ -123,6 +123,10 @@ const config = {
               {
                 label: 'Team',
                 href: '/team',
+              },
+              {
+                label: 'Donate',
+                href: '/donate',
               },
             ],
           },
