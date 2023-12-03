@@ -41,6 +41,8 @@
   --ifm-background-surface-color: #0A1414 !important;
 
   --ifm-footer-background-color: #141f1f !important;
+
+  --ifm-global-radius: 10px;
 }
 
 .navbar {
