@@ -20,7 +20,7 @@ const config = {
   },
 
   customFields:{
-    mendableAnonKey: process.env.ANON_KEY,
+    mendableAnonKey: "a7701478-a31f-4ee6-97e1-006f8bfcd547",
   },
 
   presets: [
