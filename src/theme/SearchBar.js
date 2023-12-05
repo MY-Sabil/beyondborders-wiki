@@ -14,6 +14,9 @@ export default function SearchBarWrapper() {
         placeholder="Search..."
         dialogPlaceholder="How to prepare for SAT?"
         showSimpleSearch
+        cmdShortcutKey="/"
+        askAIText="Ask AI"
+        model="gpt-3.5-turbo"
       />
     </div>
   )
