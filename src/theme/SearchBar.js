@@ -10,9 +10,9 @@ export default function SearchBarWrapper() {
     <div className="mendable-search">
       <MendableSearchBar
         anon_key={customFields.mendableAnonKey}
-        style={{ accentColor: '#179C54', darkMode: false }}
+        style={{ accentColor: '#a9d3d6', darkMode: true }}
         placeholder="Search..."
-        dialogPlaceholder="How to deploy this application?"
+        dialogPlaceholder="How to prepare for SAT?"
         showSimpleSearch
       />
     </div>
