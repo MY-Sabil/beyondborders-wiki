@@ -19,6 +19,10 @@ const config = {
     locales: ['en'],
   },
 
+  customFields:{
+    mendableAnonKey: "a7701478-a31f-4ee6-97e1-006f8bfcd547",
+  },
+
   presets: [
     [
       'classic',
