@@ -149,8 +149,6 @@ const config = {
         defaultMode: 'dark',
       }
     }),
-
-    lastChanged
 };
 
 export default config;
