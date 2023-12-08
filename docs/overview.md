@@ -8,4 +8,4 @@ Will update soon! :D
 
 ## What this website is?
 
-Beyond Borders Wiki is an open and collaborative platform designed to empower Bangladeshi students on their journey to study abroad.
+BWE is going to meet BBB.
