@@ -33,6 +33,9 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/MY-Sabil/beyondborders-wiki/edit/main/',
+          
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true
         },
         blog: {
           showReadingTime: true,
@@ -146,6 +149,8 @@ const config = {
         defaultMode: 'dark',
       }
     }),
+
+    lastChanged
 };
 
 export default config;
