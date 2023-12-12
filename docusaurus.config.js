@@ -99,7 +99,7 @@ const config = {
             items: [
               {
                 label: 'Facebook',
-                to: '#',
+                to: 'https://www.facebook.com/wiki.beyondborders',
               },
               {
                 label: 'Discord',
