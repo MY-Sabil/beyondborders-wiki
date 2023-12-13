@@ -35,7 +35,7 @@ Unable to decide on a name for this wiki 😅, we opted for the name 'Beyond Bor
 
 ## How can you contribute
 
-As a open platform, anyone can contribute on this wiki with their information, guides, resources on different topics. To learn how to contribute to Beyond Borders Wiki, check out the [contribution](contribute) page.
+As a open platform, anyone can contribute on this wiki with their information, guides, resources on different topics. To learn how to contribute to Beyond Borders Wiki, check out the [contribution](/contribute) page.
 
 ### Before you start
 
