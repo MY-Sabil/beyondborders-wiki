@@ -1687,7 +1687,7 @@
   dependencies:
     tslib "^2.6.0"
 
-"@docusaurus/utils-validation@3.0.1":
+"@docusaurus/utils-validation@3.0.1", "@docusaurus/utils-validation@^3":
   version "3.0.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/utils-validation/-/utils-validation-3.0.1.tgz#3c5f12941b328a19fc9acb34d070219f3e865ec6"
   integrity sha512-ujTnqSfyGQ7/4iZdB4RRuHKY/Nwm58IIb+41s5tCXOv/MBU2wGAjOHq3U+AEyJ8aKQcHbxvTKJaRchNHYUVUQg==
@@ -1720,6 +1720,13 @@
     tslib "^2.6.0"
     url-loader "^4.1.1"
     webpack "^5.88.1"
+
+"@gracefullight/docusaurus-plugin-vercel-analytics@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@gracefullight/docusaurus-plugin-vercel-analytics/-/docusaurus-plugin-vercel-analytics-1.0.0.tgz#f17c1129c7ae1bbd40f467d583c94f01608f7800"
+  integrity sha512-H8TyItOLTSrI4BIhq9p9RlcNWpM05KUK9chpDI4YjGqzKCF5rV8fpR+oRVrX2dGAJltE8tFftu0HDqWPhc4NPw==
+  dependencies:
+    "@docusaurus/utils-validation" "^3"
 
 "@hapi/hoek@^9.0.0":
   version "9.3.0"

@@ -149,6 +149,7 @@ const config = {
         defaultMode: 'dark',
       }
     }),
+    plugins: ["@gracefullight/docusaurus-plugin-vercel-analytics"],
 };
 
 export default config;
