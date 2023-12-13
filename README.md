@@ -2,6 +2,8 @@
 
 Welcome to Beyond Borders Wiki, your ultimate guide to studying abroad! This documentation is powered by Docusaurus, an open-source framework for building websites.
 
+![](/static/img/banner-thin-dark.png)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
