@@ -13,6 +13,8 @@ Beyond Borders Wiki is an open, free-content platform focused on higher educatio
 
 🔍 Comprehensive and up-to-date information on the whole process
 
+🤖 AI chatbot to answer all your questions
+
 📘 Guides on various standardized tests
 
 🏫  Information about specific colleges
