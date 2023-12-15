@@ -25,6 +25,8 @@ Beyond Borders Wiki is an open, free-content platform focused on higher educatio
 
 To start, click on any of the countries on the left sidebar (three dots on mobile) and dive deeper into the process of each of these countries.
 
+Or, to access the AI chatbot, click on the search button on the top-right side of the page.
+
 ## Why this was built
 
 As future college applicants ourselves, we have noticed the lack of collected information or guidance in a single place. That is why we took in upon ourselves to build such an open platform where anyone can share the information they have on anything related to higher study abroad.
