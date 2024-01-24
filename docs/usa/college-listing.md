@@ -22,7 +22,7 @@ On a similar note, many universities for undergraduate education are called coll
 Some universities have a dedicated college inside them. For example: Harvard University has Harvard College, Yale University has Yale College etc. Usually these are undergraduate branch of the university that focus more of liberal arts education. Basically you get the best of both worlds.
 :::
 
-## Colleges/Universities that meet 100% demonstrated need
+## Colleges That Meet 100% Demonstrated Need
 	
 1. Amherst College [Fullride]
 2. Harvard University [Fullride]
