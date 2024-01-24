@@ -1,3 +1,3 @@
 # About Us
 
-Will be updated soon :D
+Beyond Borders Wiki is a project

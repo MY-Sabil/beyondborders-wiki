@@ -67,6 +67,19 @@
     no-repeat;
 }
 
+.card {
+  background-color: var(--ifm-footer-background-color);
+}
+
+.card__body {
+  text-align: center;
+  padding: 0.25rem var(--ifm-card-horizontal-spacing);
+}
+
+.avatar__name {
+  padding-top: 0.5rem;
+}
+
 @media (max-width: 767px) {
   .mendable-search {
     width: 100px;
