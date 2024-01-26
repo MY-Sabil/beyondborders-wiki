@@ -2,6 +2,6 @@
 sidebar_position: 3
 ---
 
-# When to not submit
+# Advanced Placement Exams
 
 Will update soon! :D

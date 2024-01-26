@@ -4,7 +4,11 @@ sidebar_position: 1
 
 # Grades
 
+Grades are a crucial part in your application no matter which country you apply to. They show the universities whether you are actually ready to take on the challenge of higher studies.
 
+Since HSC and A Levels are the main high school leaving exams in Bangladesh, this section will be focused on only these two exams and their curriculum. Feel free to add any other ones.
+
+(Will be updated soon! :D)
 
 ## Grade Deflation, Class Ranks, Being Consistent in Class and the Obsession with A+/A*s in Board Exams
 
