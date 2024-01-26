@@ -6,6 +6,7 @@
 
 - [Khan Academy](https://www.khanacademy.org/digital-sat), the best overall free resource for DSAT prep.
 - [Official SAT Suite Question Bank](https://satsuitequestionbank.collegeboard.org/digital/search), with over 2000 official SAT questions.
+- [Digital SAT Prep Course From a 1590 Scorer](https://www.youtube.com/watch?v=OKxQxpJULH8)
 
 ### English
 - [Digital SAT by Tanvir Talks](https://www.youtube.com/playlist?list=PLZ2hNUwV4Oa-DAiQ5XVOQZzqLqDScVw9b)
