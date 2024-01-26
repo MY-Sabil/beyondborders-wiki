@@ -51,7 +51,7 @@ export function SimpleTeamRow() {
       <ProfileCard
         name="Sheikh Al Zihad"
         avatarUrl="https://images2.imgbox.com/07/c2/fVWo2YPg_o.jpg"
-        githubUrl="https://github.com/Zeehadal"
+        githubUrl="https://github.com/SheikhALZihad"
         facebookUrl="https://www.facebook.com/sheikhalzihad07">
         Fall '25 Applicant
       </ProfileCard>
