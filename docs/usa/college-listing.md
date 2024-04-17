@@ -24,59 +24,114 @@ Some universities have a dedicated college inside them. For example: Harvard Uni
 
 ## Colleges That Meet 100% Demonstrated Need
 	
-1. Amherst College [Fullride]
-2. Harvard University [Fullride]
-3. Massachusetts Institute of Technology [Fullride]
-4. Princeton University [Fullride]
-5. Yale University [Fullride]
-6. New York University Abu Dhabi [Fullride]
-7. Barnard College (All Women's College)
-8. Bates College
-9. Bennington College [Fullride]
-10. Berea College [Fullride]
-11. Bowdoin College
-12. Brown University [Fullride]
-13. Bryn Mawr College (All Women's College)
-14. Carleton College [Fullride]
-15. Colby College
-16. Colgate University
-17. Colorado College [Fullride]
-18. Columbia University [Fullride]
-19. Connecticut College
-20. Cornell University [Fullride]
-21. Dartmouth College [Fullride]
-22. Davidson College [Fullride]
-23. Dickinson College
-24. Duke University [Fullride]
-25. Franklin & Marshall College
-26. Gettysburg College
-27. Hamilton College
-28. Harvey Mudd College
-29. Haverford College [Fullride]
-30. Johns Hopkins University
-31. Kenyon College [Fullride]
-32. Lafayette College
-33. Lehigh University [Fullride]
-34. Minerva Schools at KGI
-35. Macalester College
-36. Middlebury University [Fullride]
-37. Oberlin College
-38. Pomona College
-39. Reed College [Fullride]
-40. Rice University [Fullride]
-41. Skidmore College
-42. Smith College (All Women's College) [Fullride]
-43. Swarthmore College [Fullride]
-44. Stanford University [Fullride]
-45. Trinity College
-46. Tufts University [Fullride]
-47. University of Chicago
-48. University of Miami
-49. University of Pennsylvania
-50. University of Richmond
-51. Vanderbilt University [Fullride]
-52. Vassar College
-53. Washington University in St. Louis
-54. Washington & Lee University
-55. Wellesley College (All Women's College)
-56. Williams College [Fullride]
+1. Agnes Scott College (Marvin B. Perry President’s Scholarship)
+2. Amherst College
+3. Bard College
+4. Barnard College
+5. Barry University (Stamps Scholarship)
+6. Bates College
+7. Beloit College (one full tuition)
+8. Bennington College
+9. Berea College
+10. Boston College
+11. Boston University
+12. Brandeis University
+13. Brown University
+14. Bowdoin College
+15. Bryn Mawr College
+16. Caltech
+17. Carleton College
+18. Case Western Reserve University
+19. Centre College (Lincoln Scholarship)
+20. Claremont McKenna College
+21. Clark University (Presidential Scholarship)
+22. Colby College
+23. Colgate University
+24. College of William & Mary (W&M Scholars)
+25. Colorado College
+26. Columbia University
+27. Connecticut College
+28. Cornell University
+29. Dartmouth College
+30. Davidson College (James B. Duke Scholarship)
+31. Denison University
+32. DePauw University
+33. Dickinson College (Presidential Scholarship)
+34. Duke University (Robertson Leadership Scholars Program)
+35. Emory University (Presidential Scholarship)
+36. Elizabethtown College (Stamps Scholarship)
+37. Fisk University (Erastus Milo Cravath Presidential Scholarship)
+38. Florida International University (Presidential Premier Scholarship)
+39. Franklin & Marshall College
+40. Gettysburg College
+41. Grinnell College
+42. Hamilton College
+43. Hampshire College
+44. Harvard University
+45. Harvey Mudd College
+46. Haverford College
+47. Hendrix College (Hays Memorial Scholarship)
+48. Hillsdale College (Leadership Scholarship)
+49. Indiana University Bloomington (Wells Scholars Program)
+50. Johns Hopkins University
+51. Kenyon College
+52. Lafayette College
+53. Lehigh University (Soaring Together Scholarship)
+54. Lewis & Clark College
+55. Macalester College
+56. Massachusetts Institute of Technology
+57. Miami University, Ohio (Presidential, Merit, and Stamps Scholarship)
+58. Middlebury College
+59. New York University
+60. Northwestern University
+61. Oberlin College
+62. Occidental College
+63. Ohio Wesleyan University
+64. Pitzer College
+65. Pomona College
+66. Princeton University
+67. Principia College
+68. Reed College
+69. Rhodes College
+70. Rice University
+71. Rollins College (Alfond Scholarship)
+72. Scripps College
+73. Sewanee The University of the South (Global Scholarship)
+74. Skidmore College
+75. Smith College
+76. Stanford University
+77. St. Olaf College
+78. Swarthmore College
+79. Sweet Briar College
+80. Trinity College, Connecticut
+81. Tufts University
+82. Union College
+83. University of Alabama (Academic Elite Scholarship)
+84. University of Chicago
+85. University of Houston (Tier One Scholarship)
+86. University of Kentucky (Otis Singletary Scholarship)
+87. University of Maryland, College Park (Banneker/Key Scholarship)
+88. University of North Carolina, Chapel Hill (Robertson Leadership Scholars Program)
+89. University of Notre Dame
+90. University of Pennsylvania
+91. University of Richmond (Richmond Scholars Program)
+92. University of Rochester
+93. University of Southern California (Trustee Scholarship)
+94. University of Southern Mississippi (Academic Merit)
+95. University of South Florida (Merit – full tuition highest)
+96. University of Texas at Arlington (Presidential Honors Scholarship)
+97. University of Texas at Dallas (Eugene McDermott Scholars Program; Academic Excellence Scholarship)
+98. University of Wisconsin-Madison (King Morgridge Scholarship)
+99. Vanderbilt University
+100. Vassar College
+101. Villanova University (Presidential Scholarship)
+102. Wabash College (Trustee Scholarship)
+103. Wake Forest University (Signature Scholarship)
+104. Washington and Lee University 
+105. Washington University in St. Louis
+106. Wesleyan University
+107. Wellesley College
+108. Whitman College
+109. Williams College
+110. Wofford College (Richardson Family Scholarship)
+111. Yale University
