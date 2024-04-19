@@ -26,7 +26,6 @@ Please note, these resources are meant to help people who are unable to pay for 
 
 - [SAT Prep Black Book](https://drive.google.com/file/d/1UJPxY-EKL1NNPi7Lzj_Hsu3c8fNoPQO1/view?usp=sharing)
 - [Princeton Review Digital SAT Premium Prep, 2024](https://drive.google.com/file/d/11Q5hZM9aV7fEcEpV3y6RWPao0dho8N0u/view?usp=sharing)
-- [Cracking The SAT (Premium Edition) (2017) - Princeton Review](https://drive.google.com/file/d/0B2rtIuTpa-xEclJMQ2Q5QmZ3ZVk/view?usp=sharing&resourcekey=0--K02SyL018_NEui1aW0T6w)
 - [500+ Practice Questions For The New SAT - The Princeton Review](https://drive.google.com/file/d/1pTwV0FcRzsO7wBzPhKJ21NThileSWFlZ/view?usp=sharing)
 
 ### English
@@ -38,7 +37,7 @@ Please note, these resources are meant to help people who are unable to pay for 
 
 #### Princeton Review
 
-- [SAT Power Vocab (2nd Edition) - The Princeton Review](https://drive.google.com/file/d/1O14ndk-Eopwr568wYgyWbU1-X0ktRJgT/view?usp=sharing)
+- [SAT Power Vocab, A Complete Guide to Vocabulary (3rd Edition) - The Princeton Review - 2024](https://drive.google.com/file/d/1xSEeeiWzjOwlP8AdWX1g0LJsX3Ao-DY4/view?usp=sharing)
 
 #### College Panda
 
