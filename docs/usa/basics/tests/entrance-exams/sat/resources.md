@@ -9,6 +9,7 @@
 - [Digital SAT Prep Course From a 1590 Scorer](https://www.youtube.com/watch?v=OKxQxpJULH8)
 
 ### English
+- [SexyJ on YouTube](https://youtube.com/@SexyJ)
 - [Digital SAT by Tanvir Talks](https://www.youtube.com/playlist?list=PLZ2hNUwV4Oa-DAiQ5XVOQZzqLqDScVw9b)
 
 ### Math
