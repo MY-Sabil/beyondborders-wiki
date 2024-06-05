@@ -1,6 +1,6 @@
 ---
 slug: sat-no1-tip
-title: #1 TIP FOR DIGITAL SAT READING SECTION (NO BS)
+title: NO. 1 TIP FOR DIGITAL SAT READING SECTION (NO BS)
 authors: mysabil
 tags: [sat]
 image: ./img/thumb.png
