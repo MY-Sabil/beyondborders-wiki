@@ -8,7 +8,7 @@ image: ./img/thumb.png
 
 # #1 TIP FOR DIGITAL SAT READING SECTION (NO BS)
 
-
+![Thumbnail](./img/thumb.png)
 
 *Copied from Reddit (r/Sat). This helped me increase my score quite a lot, so I thought of sharing it here. Hope it helps!*
 
