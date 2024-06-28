@@ -145,10 +145,16 @@
 }
 
 @media (max-width: 767px) {
+
   .mendable-search {
     width: 100px;
   }
+
   .search-btn__shortcut {
     display: none !important;
+  }
+
+  .collegeCardWrap {
+    flex-direction: column;
   }
 }
