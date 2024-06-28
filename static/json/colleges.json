@@ -1,0 +1,84 @@
+[
+  {
+    "name": "Amherst College",
+    "aidType": "Full Ride",
+    "children": "Amherst College is \"need blind\" for all international students.",
+    "websiteUrl": "https://www.amherst.edu/",
+    "aidUrl": "https://www.amherst.edu/offices/financialaid/international_students",
+    "logoUrl": "https://i.ibb.co/wrkVnwS/image.png",
+    "isNeedBlind": true
+  },
+  {
+    "name": "Babson College",
+    "aidType": "Full Tuition",
+    "children": "Global Scholarship - Full Tuition, \nDiversity Leadership Award - Full Tuition, \nWeissman Scholarship Full Tuition, \nArthur M. Blank Scholarship - Full Tuition",
+    "websiteUrl": "https://www.babson.edu/",
+    "aidUrl": "https://www.babson.edu/tuition-and-financial-aid/undergraduate/all-award-details/",
+    "logoUrl": "https://i.ibb.co/Sv87H58/image.png"
+  },
+  {
+    "name": "Bard College",
+    "aidType": "Full Need Met",
+    "children": "Need Aware Full Tuition Financial Aid (only for \"international student who can demonstrate sufficient funding to cover room, board and travel costs\").",
+    "websiteUrl": "https://www.bard.edu/",
+    "aidUrl": "https://www.bard.edu/financialaid/international/",
+    "logoUrl": "https://i.ibb.co/WFHFF1d/image.png"
+  },
+  {
+    "name": "Barnard College (Women's Only College)",
+    "aidType": "Full Need Met",
+    "children": "Barnard College awards a small number of need-based scholarships for international students in each first-year entering class.",
+    "websiteUrl": "https://barnard.edu/",
+    "aidUrl": "https://barnard.edu/finaid/general-policies",
+    "logoUrl": "https://i.ibb.co/dPvc15n/image.png"
+  },
+  {
+    "name": "Barry University",
+    "aidType": "Full Ride",
+    "children": "Stamps Scholarship: The Barry Stamps Scholars Program provides full tuition and room and board over four years, plus funds for study abroad, undergraduate research, and other exceptional learning experiences.",
+    "websiteUrl": "https://www.barry.edu/en/",
+    "aidUrl": "https://www.barry.edu/en/stamps-scholars-program/",
+    "logoUrl": "https://i.ibb.co/BLSSXfQ/image.png"
+  },
+  {
+    "name": "Bates College",
+    "aidType": "Full Need Met",
+    "children": "Bates meets the full demonstrated financial need for all admitted students",
+    "websiteUrl": "https://www.bates.edu/",
+    "aidUrl": "https://www.bates.edu/financial-services/financial-aid/international-undergraduates/",
+    "logoUrl": "https://i.ibb.co/LY1njKy/image.png"
+  },
+  {
+    "name": "Bennington College",
+    "aidType": "Full Need Met",
+    "children": "Financial Aid + Merit Scholarships (Presidential Scholarship)",
+    "websiteUrl": "https://www.bennington.edu/",
+    "aidUrl": "https://www.bennington.edu/admissions/apply/financing-your-education/financial-aid-undergraduates/apply-financial-aid-international",
+    "logoUrl": "https://i.ibb.co/tXMcr15/image.png"
+  },
+  {
+    "name": "Berea College",
+    "aidType": "Full Ride",
+    "children": "Financial aid and Scholarships cover all the costs of tuition, room, board, and fees.",
+    "websiteUrl": "https://www.berea.edu/",
+    "aidUrl": "https://www.berea.edu/costs-and-financial-aid-for-international-students",
+    "logoUrl": "https://i.ibb.co/B20yY8b/image.png"
+  },
+  {
+    "name": "Bowdoin College",
+    "aidType": "Full Ride",
+    "children": "Bowdoin meets all admitted international students' full demonstrated need with a small on-campus work expectation and scholarships.",
+    "websiteUrl": "https://www.bowdoin.edu/",
+    "aidUrl": "https://www.bowdoin.edu/student-aid/apply-for-aid/international-students.html",
+    "logoUrl": "https://i.ibb.co/fktQwgL/image.png",
+    "isNeedBlind": true
+  },
+  {
+    "name": "Brown University",
+    "aidType": "Full Ride",
+    "children": "Brown meets full demonstrated need for students who are admitted. Brown will be need-blind for international students beginning with the Class of 2029.",
+    "websiteUrl": "https://www.brown.edu/",
+    "aidUrl": "https://admission.brown.edu/international/financial-aid",
+    "logoUrl": "https://i.ibb.co/vkRHdkw/image.png"
+  }
+]

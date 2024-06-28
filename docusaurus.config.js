@@ -42,6 +42,11 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/MY-Sabil/beyondborders-wiki/edit/main/',
+
+          path: 'guides',
+          routeBasePath: 'guides',
+          blogTitle: 'Guides',
+          blogSidebarTitle: 'Recent guides'
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,13 +78,13 @@ const config = {
             label: 'Wiki',
           },
           {
-            to: '/blog',
-            label: 'Blog', 
+            to: '/guides',
+            label: 'Guides', 
             position: 'left',
           },
           {
-            to: '/forum',
-            label: 'Forum',
+            to: '/college-list',
+            label: 'College List',
             position: 'left',
           },
           {
@@ -134,10 +139,6 @@ const config = {
               {
                 label: 'Team',
                 href: '/team',
-              },
-              {
-                label: 'Donate',
-                href: '/donate',
               },
             ],
           },
