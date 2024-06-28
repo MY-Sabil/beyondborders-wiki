@@ -54,7 +54,7 @@ Follow us on any of these platforms to stay connected and updated with Beyond Bo
 
 - [Facebook](https://www.facebook.com/wiki.beyondborders)
 - [Github](https://github.com/MY-Sabil/beyondborders-wiki)
-- [Blog](/blog)
+- [Guides](/guides)
 
 ## Something missing?
 
