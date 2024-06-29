@@ -31,7 +31,7 @@ function CollegeCard({ name, aidType, isNeedBlind = false, websiteUrl, aidUrl, l
   interface College {
     name: string;
     aidType: string;
-    children: string;
+    details: string;
     websiteUrl: string;
     aidUrl: string;
     logoUrl: string;
@@ -58,7 +58,7 @@ function CollegeCard({ name, aidType, isNeedBlind = false, websiteUrl, aidUrl, l
                     websiteUrl = {college.websiteUrl}
                     aidUrl = {college.aidUrl}
                     logoUrl = {college.logoUrl}>
-                    {college.children}
+                    {college.details}
                 </CollegeCard>
             ))}
         </div>

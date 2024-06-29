@@ -2,7 +2,7 @@
   {
     "name": "Amherst College",
     "aidType": "Full Ride",
-    "children": "Amherst College is \"need blind\" for all international students.",
+    "details": "Amherst College is \"need blind\" for all international students.",
     "websiteUrl": "https://www.amherst.edu/",
     "aidUrl": "https://www.amherst.edu/offices/financialaid/international_students",
     "logoUrl": "https://i.ibb.co/wrkVnwS/image.png",
@@ -11,15 +11,15 @@
   {
     "name": "Babson College",
     "aidType": "Full Tuition",
-    "children": "Global Scholarship - Full Tuition, \nDiversity Leadership Award - Full Tuition, \nWeissman Scholarship Full Tuition, \nArthur M. Blank Scholarship - Full Tuition",
+    "details": "Global Scholarship - Full Tuition, \nDiversity Leadership Award - Full Tuition, \nWeissman Scholarship - Full Tuition, \nArthur M. Blank Scholarship - Full Tuition",
     "websiteUrl": "https://www.babson.edu/",
     "aidUrl": "https://www.babson.edu/tuition-and-financial-aid/undergraduate/all-award-details/",
     "logoUrl": "https://i.ibb.co/Sv87H58/image.png"
   },
   {
     "name": "Bard College",
-    "aidType": "Full Need Met",
-    "children": "Need Aware Full Tuition Financial Aid (only for \"international student who can demonstrate sufficient funding to cover room, board and travel costs\").",
+    "aidType": "Full Tuition",
+    "details": "Need Aware Full Tuition Financial Aid (only for \"international student who can demonstrate sufficient funding to cover room, board and travel costs\").",
     "websiteUrl": "https://www.bard.edu/",
     "aidUrl": "https://www.bard.edu/financialaid/international/",
     "logoUrl": "https://i.ibb.co/WFHFF1d/image.png"
@@ -27,7 +27,7 @@
   {
     "name": "Barnard College (Women's Only College)",
     "aidType": "Full Need Met",
-    "children": "Barnard College awards a small number of need-based scholarships for international students in each first-year entering class.",
+    "details": "Barnard College awards a small number of need-based scholarships for international students in each first-year entering class.",
     "websiteUrl": "https://barnard.edu/",
     "aidUrl": "https://barnard.edu/finaid/general-policies",
     "logoUrl": "https://i.ibb.co/dPvc15n/image.png"
@@ -35,7 +35,7 @@
   {
     "name": "Barry University",
     "aidType": "Full Ride",
-    "children": "Stamps Scholarship: The Barry Stamps Scholars Program provides full tuition and room and board over four years, plus funds for study abroad, undergraduate research, and other exceptional learning experiences.",
+    "details": "The Barry Stamps Scholars Program provides full tuition and room and board over four years, plus funds for study abroad, undergraduate research, and other exceptional learning experiences.",
     "websiteUrl": "https://www.barry.edu/en/",
     "aidUrl": "https://www.barry.edu/en/stamps-scholars-program/",
     "logoUrl": "https://i.ibb.co/BLSSXfQ/image.png"
@@ -43,15 +43,15 @@
   {
     "name": "Bates College",
     "aidType": "Full Need Met",
-    "children": "Bates meets the full demonstrated financial need for all admitted students",
+    "details": "Bates meets the full demonstrated financial need for all admitted students.",
     "websiteUrl": "https://www.bates.edu/",
     "aidUrl": "https://www.bates.edu/financial-services/financial-aid/international-undergraduates/",
     "logoUrl": "https://i.ibb.co/LY1njKy/image.png"
   },
   {
     "name": "Bennington College",
-    "aidType": "Full Need Met",
-    "children": "Financial Aid + Merit Scholarships (Presidential Scholarship)",
+    "aidType": "Full Ride",
+    "details": "Financial Aid + Merit Scholarships (Presidential Scholarship)",
     "websiteUrl": "https://www.bennington.edu/",
     "aidUrl": "https://www.bennington.edu/admissions/apply/financing-your-education/financial-aid-undergraduates/apply-financial-aid-international",
     "logoUrl": "https://i.ibb.co/tXMcr15/image.png"
@@ -59,7 +59,7 @@
   {
     "name": "Berea College",
     "aidType": "Full Ride",
-    "children": "Financial aid and Scholarships cover all the costs of tuition, room, board, and fees.",
+    "details": "Financial aid and Scholarships cover all the costs of tuition, room, board, and fees.",
     "websiteUrl": "https://www.berea.edu/",
     "aidUrl": "https://www.berea.edu/costs-and-financial-aid-for-international-students",
     "logoUrl": "https://i.ibb.co/B20yY8b/image.png"
@@ -67,7 +67,7 @@
   {
     "name": "Bowdoin College",
     "aidType": "Full Ride",
-    "children": "Bowdoin meets all admitted international students' full demonstrated need with a small on-campus work expectation and scholarships.",
+    "details": "Bowdoin meets all admitted international students' full demonstrated need with a small on-campus work expectation and scholarships.",
     "websiteUrl": "https://www.bowdoin.edu/",
     "aidUrl": "https://www.bowdoin.edu/student-aid/apply-for-aid/international-students.html",
     "logoUrl": "https://i.ibb.co/fktQwgL/image.png",
@@ -76,9 +76,115 @@
   {
     "name": "Brown University",
     "aidType": "Full Ride",
-    "children": "Brown meets full demonstrated need for students who are admitted. Brown will be need-blind for international students beginning with the Class of 2029.",
+    "details": "Brown meets full demonstrated need for students who are admitted. Brown will be need-blind for international students beginning with the Class of 2029.",
     "websiteUrl": "https://www.brown.edu/",
     "aidUrl": "https://admission.brown.edu/international/financial-aid",
-    "logoUrl": "https://i.ibb.co/vkRHdkw/image.png"
+    "logoUrl": "https://i.ibb.co/vkRHdkw/image.png",
+    "isNeedBlind": true
+  },
+  {
+    "name": "Bryn Mawr College (Women's Only College)",
+    "aidType": "Full Ride",
+    "details": "Bryn Mawr Grant (need-based aid) + Merit Scholarships (Bryn Mawr Merit Scholarship, Bryn Mawr Presidential Scholarship).",
+    "websiteUrl": "https://www.brynmawr.edu/",
+    "aidUrl": "https://www.brynmawr.edu/inside/offices-services/financial-aid/undergraduate-students/types-aid",
+    "logoUrl": "https://i.ibb.co/Z6G2Nh2/image.png"
+  },
+  {
+    "name": "Caltech",
+    "aidType": "Full Ride",
+    "details": "Need based \"gift aid\" + Work-Study Program.",
+    "websiteUrl": "https://www.caltech.edu/",
+    "aidUrl": "https://www.finaid.caltech.edu/typesofaid",
+    "logoUrl": "https://i.ibb.co/YpTLv1C/image.png"
+  },
+  {
+    "name": "Carleton College",
+    "aidType": "Full Ride",
+    "details": "100 percent of every student’s demonstrated need is met through need-based grants.",
+    "websiteUrl": "https://www.carleton.edu/",
+    "aidUrl": "https://www.carleton.edu/financial-aid/",
+    "logoUrl": "https://i.ibb.co/MNTWnFB/image.png"
+  },
+  {
+    "name": "Case Western Reserve University",
+    "aidType": "Full Tuition",
+    "details": "Need-based aid + Scholarships (unsure if full-ride is available).",
+    "websiteUrl": "https://case.edu/",
+    "aidUrl": "https://case.edu/financialaid/undergraduates/international-students",
+    "logoUrl": "https://i.ibb.co/zF3jBtq/image.png"
+  },
+  {
+    "name": "Claremont McKenna College",
+    "aidType": "Full Need Met",
+    "details": "CMC meets 100% of demonstrated financial need of all admitted students using grants, merit-based scholarships and College Work-Study Program.",
+    "websiteUrl": "https://www.cmc.edu/",
+    "aidUrl": "https://www.cmc.edu/financial-aid/aid-types",
+    "logoUrl": "https://i.ibb.co/vBxv723/image.png"
+  },
+  {
+    "name": "Clark University",
+    "aidType": "Full Ride",
+    "details": "The Presidential Scholarship is awared to approximately five exceptional students annually, covering full tuition, as well as on-campus housing and meals for all four years.",
+    "websiteUrl": "https://www.clarku.edu/",
+    "aidUrl": "https://www.clarku.edu/offices/financial-aid/scholarships/",
+    "logoUrl": "https://i.ibb.co/9t4dyhw/image.png"
+  },
+  {
+    "name": "Colby College",
+    "aidType": "Full Ride",
+    "details": "Colby meets 100 percent of demonstrated need for all admitted students, including international students.",
+    "websiteUrl": "https://www.colby.edu/",
+    "aidUrl": "https://afa.colby.edu/cost-and-aid/colby-commitment/",
+    "logoUrl": "https://i.ibb.co/9qNpck7/image.png"
+  },
+  {
+    "name": "Colgate University",
+    "aidType": "Full Ride",
+    "details": "It is free for international applicants to apply to Colgate, and Colgate meets 100% of every international student's demonstrated financial need.",
+    "websiteUrl": "https://www.colgate.edu/",
+    "aidUrl": "https://www.colgate.edu/admission-aid/apply/international-applicants",
+    "logoUrl": "https://i.ibb.co/MpM4ZcZ/image.png"
+  },
+  {
+    "name": "Colorado College",
+    "aidType": "Full Need Met",
+    "details": "CC meets 100% of your family's eligibility for need-based financial aid.",
+    "websiteUrl": "https://www.coloradocollege.edu/",
+    "aidUrl": "https://www.coloradocollege.edu/admission/financialaid/",
+    "logoUrl": "https://i.ibb.co/kxhRg6x/image.png"
+  },
+  {
+    "name": "Columbia University",
+    "aidType": "Full Ride",
+    "details": "Columbia meets 100% of the demonstrated financial need for all international students admitted with funding.",
+    "websiteUrl": "https://www.columbia.edu/",
+    "aidUrl": "https://cc-seas.financialaid.columbia.edu/how/aid/works",
+    "logoUrl": "https://i.ibb.co/SwdJNMG/image.png"
+  },
+  {
+    "name": "Connecticut College",
+    "aidType": "Full Need Met",
+    "details": "ConnColl meets the full demonstrated need of every admitted student.",
+    "websiteUrl": "https://www.conncoll.edu/",
+    "aidUrl": "https://www.conncoll.edu/financial-aid/applying-for-financial-aid/international-students/",
+    "logoUrl": "https://i.ibb.co/WKSFzkT/image.png"
+  },
+  {
+    "name": "Cornell University",
+    "aidType": "Full Ride",
+    "details": "Cornell meets 100 percent of admitted international undergraduates' demonstrated financial need.",
+    "websiteUrl": "https://www.cornell.edu/",
+    "aidUrl": "https://finaid.cornell.edu/apply-for-aid/first-year-and-transfer-students-international",
+    "logoUrl": "https://i.ibb.co/0rFK7T1/image.png"
+  },
+  {
+    "name": "Dartmouth College",
+    "aidType": "Full Ride",
+    "details": "Dartmouth guarantees to meet 100% of the demonstrated need of all admitted students who apply for aid, regardless of citizenship. Need-blind for all international students.",
+    "websiteUrl": "https://home.dartmouth.edu/",
+    "aidUrl": "https://financialaid.dartmouth.edu/apply-aid/international-students",
+    "logoUrl": "https://i.ibb.co/KNK0SKt/image.png",
+    "isNeedBlind": true
   }
 ]

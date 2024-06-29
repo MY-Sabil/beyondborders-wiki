@@ -2,7 +2,7 @@
   {
     "name": "Amherst College",
     "aidType": "Full Ride",
-    "children": "Amherst College is \"need blind\" for all international students.",
+    "details": "Amherst College is \"need blind\" for all international students.",
     "websiteUrl": "https://www.amherst.edu/",
     "aidUrl": "https://www.amherst.edu/offices/financialaid/international_students",
     "logoUrl": "https://i.ibb.co/wrkVnwS/image.png",
@@ -11,7 +11,7 @@
   {
     "name": "Babson College",
     "aidType": "Full Tuition",
-    "children": "Global Scholarship - Full Tuition, \nDiversity Leadership Award - Full Tuition, \nWeissman Scholarship Full Tuition, \nArthur M. Blank Scholarship - Full Tuition",
+    "details": "Global Scholarship - Full Tuition, \nDiversity Leadership Award - Full Tuition, \nWeissman Scholarship Full Tuition, \nArthur M. Blank Scholarship - Full Tuition",
     "websiteUrl": "https://www.babson.edu/",
     "aidUrl": "https://www.babson.edu/tuition-and-financial-aid/undergraduate/all-award-details/",
     "logoUrl": "https://i.ibb.co/Sv87H58/image.png"
