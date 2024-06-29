@@ -186,5 +186,215 @@
     "aidUrl": "https://financialaid.dartmouth.edu/apply-aid/international-students",
     "logoUrl": "https://i.ibb.co/KNK0SKt/image.png",
     "isNeedBlind": true
+  },
+  {
+    "name": "Davidson College",
+    "aidType": "Full Tuition",
+    "details": "James B. Duke Scholarship will be awarded to five students each year. The award includes full tuition and fees plus a $5,000 stipend.",
+    "websiteUrl": "https://www.davidson.edu/",
+    "aidUrl": "https://www.davidson.edu/admission-and-financial-aid/financial-aid/types-financial-aid/scholarships/application-scholarships/james-b-duke-scholarship",
+    "logoUrl": "https://i.ibb.co/fvY6sVx/image.png"
+  },
+  {
+    "name": "DePauw University",
+    "aidType": "Full Tuition",
+    "details": "Rector scholarship - Full Tuition, Merit Scholarships - Up to $40k, Need-based aid.",
+    "websiteUrl": "https://www.depauw.edu/",
+    "aidUrl": "https://www.depauw.edu/admission-aid/apply/international-applicants/international-students/scholarships-and-financial-aid-for-international-students/",
+    "logoUrl": "https://i.ibb.co/Y86FhQp/image.png"
+  },
+  {
+    "name": "Drexel University",
+    "aidType": "Full Tuition",
+    "details": "The Drexel Global Scholar program recognizes a select number of incoming international students with exceptional academic achievement and outstanding commitment to global leadership and international community building.",
+    "websiteUrl": "https://drexel.edu/",
+    "aidUrl": "https://drexel.edu/drexelcentral/finaid/grants/undergraduate-scholarships/",
+    "logoUrl": "https://i.ibb.co/cXs25M2/image.png"
+  },
+  {
+    "name": "Duke University",
+    "aidType": "Full Ride",
+    "details": "The Robertson Scholars Leadership Program provides eight semesters of full tuition, room and board, and most mandatory fees for Scholars at Duke University. Scholars also have access to generous funding for up to three summer experiences, funding for conferences throughout the academic year, and for two semesters of study abroad. Duke also offers need-based financial aid to international students.",
+    "websiteUrl": "https://duke.edu/",
+    "aidUrl": "https://ousf.duke.edu/merit-scholarships/robertson-scholars-program/",
+    "logoUrl": "https://i.ibb.co/hHkwgz7/image.png"
+  },
+  {
+    "name": "Emory University",
+    "aidType": "Full Ride",
+    "details": "The Robert W. Woodruff Scholarship seeks \"individuals who are motivated to be agents of positive social change across the broad spectrum of society\". The scholarship includes full tuition, fees, and on-campus room and meals.",
+    "websiteUrl": "https://www.emory.edu/",
+    "aidUrl": "https://college.emory.edu/scholars/scholarships/woodruff-scholarship.html",
+    "logoUrl": "https://i.ibb.co/Jnj2jQj/image.png"
+  },
+  {
+    "name": "Florida International University",
+    "aidType": "Full Tuition",
+    "details": "Presidential Premier Scholarship - Students with 4.0 GPA and 1370 SAT / or 30 ACT are awarded 100% tuition and fees plus a book stipend.",
+    "websiteUrl": "https://www.fiu.edu/",
+    "aidUrl": "https://admissions.fiu.edu/cost-and-aid/scholarships/",
+    "logoUrl": "https://i.ibb.co/vZT1m5z/image.png"
+  },
+  {
+    "name": "Franklin & Marshall College",
+    "aidType": "Full Ride",
+    "details": "Need-based aid + Merit Scholarships. Need-based and merit-based financial aid is not mutually exclusive; you can qualify and receive both. If you’re admitted to F&M, they will meet 100% of your institutionally determined financial need for all four years on campus.",
+    "websiteUrl": "https://www.fandm.edu/index.html",
+    "aidUrl": "https://www.fandm.edu/financial-aid/types.html",
+    "logoUrl": "https://i.ibb.co/kQxCczW/image.png"
+  },
+  {
+    "name": "Furman University",
+    "aidType": "Full Ride",
+    "details": "The James B. Duke scholarship covers tuition, room, board, and all fees for four years or eight semesters.",
+    "websiteUrl": "https://www.furman.edu/",
+    "aidUrl": "https://www.furman.edu/financial-aid/aid-types/merit-based-scholarships/",
+    "logoUrl": "https://i.ibb.co/47rZ059/image.png"
+  },
+  {
+    "name": "Gettysburg College",
+    "aidType": "Full Need Met",
+    "details": "Gettysburg meets the demonstrated financial need for all admitted international students.",
+    "websiteUrl": "https://www.gettysburg.edu/",
+    "aidUrl": "https://www.gettysburg.edu/admissions-aid/international-students/financial-aid-international-students",
+    "logoUrl": "https://i.ibb.co/FHjqCDJ/image.png"
+  },
+  {
+    "name": "Grinnell College",
+    "aidType": "Full Need Met",
+    "details": "Grinnell is committed to meeting 100% of institutionally determined need for all admitted international students.",
+    "websiteUrl": "https://www.grinnell.edu/",
+    "aidUrl": "https://www.grinnell.edu/admission/financial-aid/apply-aid/prospective-students",
+    "logoUrl": "https://i.ibb.co/26BK4w2/image.png"
+  },
+  {
+    "name": "Hamilton College",
+    "aidType": "Full Need Met",
+    "details": "Hamilton meets the full demonstrated financial need of every admitted international student for all four years.",
+    "websiteUrl": "https://www.hamilton.edu/",
+    "aidUrl": "https://www.hamilton.edu/admission/finaid/international",
+    "logoUrl": "https://i.ibb.co/0rHqTGR/image.png"
+  },
+  {
+    "name": "Hampshire College",
+    "aidType": "Full Ride",
+    "details": "International Scholar Award - One international student each year will receive full ride scholarship, and two international students will receive full tuition scholarship.",
+    "websiteUrl": "https://www.hampshire.edu/",
+    "aidUrl": "https://www.hampshire.edu/offices/financial-services/financial-aid/apply-financial-aid/applying-financial-aid/international",
+    "logoUrl": "https://i.ibb.co/YjbM2Cm/image.png"
+  },
+  {
+    "name": "Harvard University",
+    "aidType": "Full Ride",
+    "details": "Harvard has a need-blind admissions policy for that meets the full need of all international students.",
+    "websiteUrl": "https://harvard.edu/",
+    "aidUrl": "https://college.harvard.edu/financial-aid",
+    "logoUrl": "https://i.ibb.co/9GpqxRf/image.png",
+    "isNeedBlind": true
+  },
+  {
+    "name": "Harvey Mudd College",
+    "aidType": "Full Need Met",
+    "details": "Harvey Mudd College provides need-based financial aid in the form of the International Student Scholarship. Additional merit scholarships are also available.",
+    "websiteUrl": "https://www.hmc.edu/",
+    "aidUrl": "https://www.hmc.edu/admission/afford/international-student-financial-aid/",
+    "logoUrl": "https://i.ibb.co/S6NV70z/image.png"
+  },
+  {
+    "name": "Hendrix College",
+    "aidType": "Full Ride",
+    "details": "The Hays Memorial Scholarship, awarded to four entering students each year, provides full tuition, room, board, and mandatory fees for four years of study at Hendrix. Make sure to apply by November 15.",
+    "websiteUrl": "https://www.hendrix.edu/",
+    "aidUrl": "https://www.hendrix.edu/admission/admission.aspx?id=49311",
+    "logoUrl": "https://i.ibb.co/FBCsnZm/image.png"
+  },
+  {
+    "name": "Haverford College",
+    "aidType": "Full Need Met",
+    "details": "Haverford meets 100% of the demonstrated need of all admitted international students.",
+    "websiteUrl": "https://www.haverford.edu/",
+    "aidUrl": "https://www.haverford.edu/financial-aid/frequently-asked-questions/international-students-faq",
+    "logoUrl": "https://i.ibb.co/NTY6mhZ/image.png"
+  },
+  {
+    "name": "Indiana University Bloomington",
+    "aidType": "Full Ride",
+    "details": "The Wells Scholars Program guarantees the full cost of attendance including, tuition fees, as well as a living stipend to cover the cost of a standard double dorm room contract and a standard meal plan in the residence halls. Make sure to apply before November 1.",
+    "websiteUrl": "https://bloomington.iu.edu/index.html",
+    "aidUrl": "https://wellsscholars.indiana.edu/about-the-program/scholarship-details/index.html",
+    "logoUrl": "https://i.ibb.co/7VmF5MV/image.png"
+  },
+  {
+    "name": "Johns Hopkins University",
+    "aidType": "Full Need Met",
+    "details": "JHU meets 100% of a family's demonstrated need without loans for all admitted international citizens.",
+    "websiteUrl": "https://www.jhu.edu/",
+    "aidUrl": "https://apply.jhu.edu/tuition-aid/",
+    "logoUrl": "https://i.ibb.co/4F0mhv0/image.png"
+  },
+  {
+    "name": "Kenyon College",
+    "aidType": "Full Need Met",
+    "details": "Kenyon meets 100% of demonstrated financial need for all four years of the college experience.",
+    "websiteUrl": "https://www.kenyon.edu/",
+    "aidUrl": "https://www.kenyon.edu/admissions-aid/financial-aid-scholarships/",
+    "logoUrl": "https://i.ibb.co/th1yMTs/image.png"
+  },
+  {
+    "name": "Lafayette College",
+    "aidType": "Full Need Met",
+    "details": "Lafayette guarantees to meet 100% of admitted and enrolled students’ demonstrated financial need.",
+    "websiteUrl": "https://www.lafayette.edu/",
+    "aidUrl": "https://admissions.lafayette.edu/apply/international-students/",
+    "logoUrl": "https://i.ibb.co/wB5RgDQ/image.png"
+  },
+  {
+    "name": "Lehigh University",
+    "aidType": "Full Tuition",
+    "details": "Lehigh’s Soaring Together Scholarship Program provides full-tuition merit scholarships—along with experiential learning opportunities, alumni support and career and professional development—in celebration of 50 years of Lehigh women and coeducation at Lehigh. Additional need-based aid is also available to international students.",
+    "websiteUrl": "https://lehigh.edu/",
+    "aidUrl": "https://www1.lehigh.edu/admissions/soaring-together-scholarship-program",
+    "logoUrl": "https://i.ibb.co/Qr7Fqw1/image.png"
+  },
+  {
+    "name": "Massachusetts Institute of Technology",
+    "aidType": "Full Ride",
+    "details": "MIT is committed to meeting 100% of demonstrated financial need for international students just as we are for domestic students.",
+    "websiteUrl": "https://mit.edu/",
+    "aidUrl": "https://sfs.mit.edu/undergraduate-students/apply-for-aid/international/",
+    "logoUrl": "https://i.ibb.co/dDJVW30/image.png",
+    "isNeedBlind": true
+  },
+  {
+    "name": "Miami University",
+    "aidType": "Full Ride",
+    "details": "Presidential Fellows Program scholarship package will cover tuition, fees, housing, and food for 15 students each year. Make sure to apply before December 1.",
+    "websiteUrl": "https://miamioh.edu/",
+    "aidUrl": "https://miamioh.edu/admission-aid/majors-minors-programs/honors-programs/presidential-fellows-program.html",
+    "logoUrl": "https://i.ibb.co/XFHJqvn/image.png"
+  },
+  {
+    "name": "Middlebury College",
+    "aidType": "Full Need Met",
+    "details": "Middlebury meets 100% of the demonstrated financial need of any student we admit, U.S. or international.",
+    "websiteUrl": "https://www.middlebury.edu/",
+    "aidUrl": "https://www.middlebury.edu/student-financial-services/apply-aid/first-year-and-transfer-students",
+    "logoUrl": "https://i.ibb.co/fS4534m/image.png"
+  },
+  {
+    "name": "New York University",
+    "aidType": "Full Ride",
+    "details": "NYU will meet 100% demonstrated need of all admitted stuents.",
+    "websiteUrl": "https://www.nyu.edu/",
+    "aidUrl": "https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply/international-applicants.html",
+    "logoUrl": "https://i.ibb.co/mD1yXX0/image.png"
+  },
+  {
+    "name": "Northwestern University",
+    "aidType": "Full Ride",
+    "details": "Northwestern meets 100% of a student’s demonstrated financial need.",
+    "websiteUrl": "https://www.northwestern.edu/",
+    "aidUrl": "https://admissions.northwestern.edu/tuition-aid/international-student-aid/",
+    "logoUrl": "https://i.ibb.co/DrR9C0b/image.png"
   }
 ]
