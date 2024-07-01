@@ -10,8 +10,8 @@
   },
   {
     "name": "Babson College",
-    "aidType": "Full Tuition",
-    "details": "Global Scholarship - Full Tuition, \nDiversity Leadership Award - Full Tuition, \nWeissman Scholarship - Full Tuition, \nArthur M. Blank Scholarship - Full Tuition",
+    "aidType": "Full Need Met",
+    "details": "Need-based financial aid plus several full tuition scholarships: Global Scholarship,  Diversity Leadership Award,  Weissman Scholarship,  Arthur M. Blank Scholarship",
     "websiteUrl": "https://www.babson.edu/",
     "aidUrl": "https://www.babson.edu/tuition-and-financial-aid/undergraduate/all-award-details/",
     "logoUrl": "https://i.ibb.co/Sv87H58/image.png"
@@ -286,7 +286,7 @@
   {
     "name": "Harvard University",
     "aidType": "Full Ride",
-    "details": "Harvard has a need-blind admissions policy for that meets the full need of all international students.",
+    "details": "Harvard has a need-blind admissions policy that meets the full need of all international students.",
     "websiteUrl": "https://harvard.edu/",
     "aidUrl": "https://college.harvard.edu/financial-aid",
     "logoUrl": "https://i.ibb.co/9GpqxRf/image.png",
