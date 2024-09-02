@@ -49,10 +49,10 @@ export function SimpleTeamRow() {
         Creator of Beyond Borders Wiki, Fall '25 Applicant
       </ProfileCard>
       <ProfileCard
-        name="Sheikh Al Zihad"
+        name="Zeehad AL Sheikh"
         avatarUrl="https://images2.imgbox.com/07/c2/fVWo2YPg_o.jpg"
         githubUrl="https://github.com/SheikhALZihad"
-        facebookUrl="https://www.facebook.com/sheikhalzihad07">
+        facebookUrl="https://www.facebook.com/zeehadalsheikh">
         Fall '25 Applicant
       </ProfileCard>
       <ProfileCard
