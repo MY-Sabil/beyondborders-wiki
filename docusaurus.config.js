@@ -83,6 +83,11 @@ const config = {
             position: 'left',
           },
           {
+            to: '/docs/usa/basics/tests/entrance-exams/sat/resources',
+            label: 'SAT Resources', 
+            position: 'left',
+          },
+          {
             to: '/college-list',
             label: 'College List',
             position: 'left',
