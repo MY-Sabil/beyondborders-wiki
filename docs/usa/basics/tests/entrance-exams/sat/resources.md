@@ -38,6 +38,7 @@ Please note, these resources are meant to help people who are unable to pay for 
 #### Princeton Review
 
 - [SAT Power Vocab, A Complete Guide to Vocabulary (3rd Edition) - The Princeton Review - 2024](https://drive.google.com/file/d/1xSEeeiWzjOwlP8AdWX1g0LJsX3Ao-DY4/view?usp=sharing)
+- [SAT Power Vocab - Glossary (Master List + Cram List)](https://drive.google.com/file/d/1hygaqCD-ViNgoQliKd2Z01DghAnlxEPe/view?usp=drivesdk)
 - [500+ Practice Questions For The New SAT - The Princeton Review](https://drive.google.com/file/d/1pTwV0FcRzsO7wBzPhKJ21NThileSWFlZ/view?usp=sharing)
 
 #### College Panda
