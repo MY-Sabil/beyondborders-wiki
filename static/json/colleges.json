@@ -237,7 +237,7 @@
   },
   {
     "name": "Franklin & Marshall College",
-    "aidType": "Full Ride",
+    "aidType": "Full Need Met",
     "details": "Need-based aid + Merit Scholarships. Need-based and merit-based financial aid is not mutually exclusive; you can qualify and receive both. If you’re admitted to F&M, they will meet 100% of your institutionally determined financial need for all four years on campus.",
     "websiteUrl": "https://www.fandm.edu/index.html",
     "aidUrl": "https://www.fandm.edu/financial-aid/types.html",
@@ -596,7 +596,8 @@
     "details": "Notre Dame Stamps Scholars Program covers tuition and fees as well as the estimated cost of books, personal expenses, and transportation for up to four years of undergraduate study. Additionally, need-based aid is also available for international students.",
     "websiteUrl": "https://www.nd.edu/",
     "aidUrl": "https://scholars.nd.edu/awards/list-of-awards/stamps-notre-dame-scholarship/",
-    "logoUrl": "https://i.ibb.co/dDg1p8F/image.png"
+    "logoUrl": "https://i.ibb.co/dDg1p8F/image.png",
+    "isNeedBlind": true
   },
   {
     "name": "University of Pennsylvania",
@@ -708,7 +709,8 @@
     "details": "The Johnson Scholarship: Johnson Scholarships cover tuition and fees, housing and food, and $10,000 in funding for a summer experience — a grand total of more than $83,000 per year.",
     "websiteUrl": "https://www.wlu.edu/",
     "aidUrl": "https://www.wlu.edu/admissions/the-johnson-scholarship",
-    "logoUrl": "https://i.ibb.co/PzFGr2V/image.png"
+    "logoUrl": "https://i.ibb.co/PzFGr2V/image.png",
+    "isNeedBlind": true
   },
   {
     "name": "Washington University in St. Louis",
