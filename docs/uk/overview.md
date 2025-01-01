@@ -4,22 +4,22 @@ sidebar_position: 1
 
 # Overview
 
-Many of us wish to obtain undergraduate degrees from top-ranked renowned universities of the world. So many Bangladeshi students apply into different universities of USA, Canada, UK, and some other countries of Europe. I was not an exception to them; I also applied to 5 universities of UK for undergraduate degree and **got offer letter from Durham University and University of Sussex.**
+Many of us wish to obtain undergraduate degrees from top-ranked renowned universities of the world. So many Bangladeshi students apply into different universities of USA, Canada, UK, and some other countries of Europe. I was not an exception to them; I also applied to 5 universities in the UK for undergraduate degree and **got offer letters from Durham University and University of Sussex.**
 
 I would like to share my experience, not in a very formal way but in a simple way, that may be informative and give a brief guide of essentials to Bangladeshi applicants who want to apply for undergraduate study into UK universities.
 
 ### Choosing the Course and University According to Requirements ![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/tac/1/16/1f4cc.png)
 
-You have to choose the course for which you are going to apply at first. You have to search for the requirements of the course at [[desired universities|your desired universities]] through the [[desired universities|Websites]] of those universities. The requirements for the same course vary from university to university. 
+You have to choose the course for which you are going to apply at first. You have to search for the requirements of the course at your desired univerity through their website. The requirements for the same course vary from university to university. 
 #### you have to make sure that you fulfills all the requirements totally
 
-For example, some universities may require you to complete SAT subject test or to have Mathematical course in higher level school for BSc (Hons) in Economics but many universities may not require this. So before choosing the course to apply, you have to make sure that you fulfils all the requirements totally. Some requirements are recommended and these recommended requirements are not mandatory to apply for the course but applicants having recommended requirements will undoubtedly get preference over the applicants who do not have so.
-#### you have to choose a single course to apply to different universities
+For example, some universities may require you to complete SAT subject test or to have Mathematical course in higher level school for BSc (Hons) in Economics but many universities may not require this. So before choosing the course to apply to, you have to make sure that you fulfill all the requirements. Some requirements are recommended and these recommended requirements are not mandatory to apply for the course but applicants having recommended requirements will undoubtedly get preference over the applicants who do not have so.
+#### You have to choose a single course to apply to different universities
 To mention, for applying into UK, you have to choose a single course to apply to different universities. **You can apply to different courses of different universities through UCAS but eventually your application will have no value except the course for which you will write the Personal Statement**.
 Please remember that completing only Higher Secondary Certificate (HSC) may not make you eligible or qualified even to apply in most of the universities. 
 This eligibility or qualification is called International Qualifications. In that case, universities require you to take some standardized tests like SAT, ACT, or Tests as per mentioned into university website to be eligible or qualified to apply into the university. But students studying into Bachelor degree in any recognized university, better if renowned, may get an exemption from taking those standardized tests to be qualified but all the universities do not offer this opportunity. Even all the universities do not show this information on their websites. You may contact universities to know whether they give you the opportunity or not. I got exemption from taking standardized tests as a student of Bachelor degree at another recognized university.
 
-#### meet English language requirements
+#### Meet English language requirements
 Moreover, if you are yet to meet English language requirements, you have to submit English language testing scores to the university. But universities may offer you an opportunity to submit English language proficiency proof after you receive an offer from the university. I had the opportunity and I have not yet submitted my English language proficiency scores to the universities that made offers to me.
 
 ### Registering in UCAS and Filling up the Details ![📌](https://static.xx.fbcdn.net/images/emoji.php/v9/tac/1/16/1f4cc.png)
